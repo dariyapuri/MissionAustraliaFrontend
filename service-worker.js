@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MissionAustraliaFrontend/precache-manifest.d7955bac8abc70657c4c6874ceb6851f.js"
+  "/MissionAustraliaFrontend/precache-manifest.02a0b21297c272898efa9d9ccf1e4ec6.js"
 );
 
 self.addEventListener('message', (event) => {
